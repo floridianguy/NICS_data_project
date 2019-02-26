@@ -11,3 +11,5 @@ of line plots and bar graphs to aid in state-by-state comparisons.
 Given the nature of the data and this particular project, the
 conclusion consists mainly of general observations rather than
 concrete causes and effects.
+
+This was part of Udacity's Data Analyst Nanodegree program.
